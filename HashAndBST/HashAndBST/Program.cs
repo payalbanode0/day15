@@ -8,7 +8,7 @@ namespace HashAndBST
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
 
             Console.WriteLine("***Hashing Problem***");
@@ -47,4 +47,5 @@ namespace HashAndBST
             Console.ReadLine();
         }
     }
+
 }
