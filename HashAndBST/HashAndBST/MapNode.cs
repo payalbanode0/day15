@@ -33,6 +33,7 @@ namespace HashingAndBST
                 else
                 {
                     this.leftTree.Insert(item);
+                    leftCount++;
                 }
             }
             else
@@ -44,8 +45,13 @@ namespace HashingAndBST
                 else
                 {
                     this.rightTree.Insert(item);
+                    rightCount++;
                 }
             }
+        }
+        public void GetSize()
+        {
+            Console.WriteLine("Size " + " " + (1 + this.leftCount + this.rightCount));
         }
 
         public void Display()
