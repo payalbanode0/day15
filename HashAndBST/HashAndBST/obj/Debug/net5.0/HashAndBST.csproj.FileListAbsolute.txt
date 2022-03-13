@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\bin\Debug\net5.0\HashAndBST.exe
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\bin\Debug\net5.0\HashAndBST.deps.json
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\bin\Debug\net5.0\HashAndBST.runtimeconfig.json
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\bin\Debug\net5.0\HashAndBST.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\bin\Debug\net5.0\HashAndBST.dll
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\bin\Debug\net5.0\HashAndBST.pdb
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.dll
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\refint\HashAndBST.dll
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.pdb
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\HashAndBST.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day15\HashAndBST\HashAndBST\obj\Debug\net5.0\ref\HashAndBST.dll
